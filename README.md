@@ -1,2 +1,2 @@
 # Tor-Router
-This is a simple Repo That Routs Your Stuff Though Tor Like A Vpn But More Secure 
+This is a simple Repo That Routes Your Stuff Though Tor Like A Vpn But More Secure 
