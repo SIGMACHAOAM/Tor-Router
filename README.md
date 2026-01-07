@@ -3,3 +3,6 @@ This is a simple Repo That Routes Your Stuff Though Tor Like A Vpn But More Secu
 
 
 This Isnt Finished but I will Try and get the first ver out soon
+
+
+# WORKING ON THIS CURRENTLY 
